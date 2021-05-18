@@ -1,3 +1,3 @@
-[![maven](https://img.shields.io/badge/maven-maven%20central-blue)](https://search.maven.org/search?q=g:com.hendraanggrian)
-[![gradle](https://img.shields.io/badge/gradle-plugin%20portal-brightgreen)](https://plugins.gradle.org/u/hendraanggrian)
-[![ci](https://img.shields.io/badge/ci-travis%20ci-red)](https://travis-ci.com/github/hendraanggrian)
+[![maven](https://img.shields.io/badge/maven-maven--central-orange)](https://search.maven.org/search?q=g:com.hendraanggrian)
+[![gradle](https://img.shields.io/badge/gradle-plugin--portal-orange)](https://plugins.gradle.org/u/hendraanggrian)
+[![build](https://img.shields.io/badge/build-travis--ci-brightgreen)](https://travis-ci.com/github/hendraanggrian)
